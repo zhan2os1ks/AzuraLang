@@ -1,3 +1,6 @@
+
+<img width="1035" height="86" alt="huipizdez" src="https://github.com/user-attachments/assets/41295232-9265-4a70-a553-2493acc2efbb" />
+
 <img src="./assets/banner.svg" alt="banner">
 
 # <img title="" src="./assets/AzuraLangLogo.svg" alt="Launch App" width="50"> AzuraLang
